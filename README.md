@@ -1,3 +1,5 @@
-# elevatorpitchgenerator
+# Proposal for implementing a touch screen interface for Film Studies.
 
-Welcome, open this generator up in a text.edit device and follow the directions to utilize the available means of persuasion to make an elevator pitch. 
+Group : Emma, Jack, Javier, Jesse, Yangshan
+
+
